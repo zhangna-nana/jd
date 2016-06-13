@@ -1,0 +1,27 @@
+{
+  "name": "jd",
+  "description": "jd index in weixin",
+  "main": "index.html",
+  "keywords": [
+    "mobile",
+    "jingdong"
+  ],
+  "authors": [
+    "suyuan"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "jquery": "^2.2.4",
+    "Touch": "touch#^0.0.1"
+  }
+}
